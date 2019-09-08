@@ -201,7 +201,7 @@ li.agile-it-adress-left b {
 	width: 55px;
 	height: 55px;
 	border-radius: 30px;
-	background:#00bcd4;
+	background:#A20055;
 	-webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
 	-moz-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
 	-o-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
@@ -651,7 +651,7 @@ h3.w3-head-project {
 }
  .title-w3ls h4,.w3ls-heading h3,.w3-gallery-head h3,.w3-about-head h3{
 	font-size:3em;
-    color:#00bcd4;
+    color:#6DD0CD;
 	font-weight: 600;
 	text-align:center;
 	text-transform:uppercase;
@@ -660,11 +660,11 @@ h3.w3-head-project {
 }
 /*-- education and experience --*/
 .w3-edu-top {
-    background: #212121;
+    background: #FFFFFF;
    
 }
 .w3-edu-grid-left h3 {
-   color: #fff;
+   color: #111111;
     font-size: 2em;
     text-transform: capitalize;
     margin-bottom: 25px;
@@ -688,13 +688,13 @@ h3.w3-head-project {
     font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 .w3-edu-grid-header h3 {
-       color: #00bcd4;
+       color: #6DD0CD;
     font-size: 3em;
         font-family: 'Poppins', sans-serif;
 	
 }
 .w3-edu-info-right2 h3 {
-   color: #fff;
+   color: #111111;
     font-size: 2em;
     text-transform: capitalize;
     margin-bottom: 25px;
@@ -702,7 +702,7 @@ h3.w3-head-project {
     font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 .w3-edu-info-right1 h3 {
-    color: #fff;
+    color: #111111;
     font-size: 1.7em;
     text-transform: capitalize;
 }
@@ -1167,7 +1167,7 @@ h4.modal-title {
        padding: 4em 0 3em 0;
 }
 .w3l_footer form{
-	width: 45%;
+	width: 20%;
     margin: 3em auto 0;
 }
 .w3ls_footer_grid {
@@ -1641,7 +1641,7 @@ h4.modal-title {
 	}
 	.title-w3ls h4, .w3ls-heading h3, .w3-gallery-head h3, .w3-about-head h3 {
     font-size: 3em;
-    color: #00bcd4;
+    color: #6DD0CD;
     font-weight: 600;
     text-align: center;
     text-transform: uppercase;
