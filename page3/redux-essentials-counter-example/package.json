@@ -2,7 +2,7 @@
   "name": "redux-essentials-counter-example",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://azin13719.github.io/page3/",
+  "homepage": "https://azin13719.github.io/page3/redux-essentials-counter-example",
   "dependencies": {
     "@reduxjs/toolkit": "^1.4.0",
     "@testing-library/jest-dom": "^4.2.4",
